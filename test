@@ -1,0 +1,18 @@
+games = {
+    'Banks': 30,
+    'Wilson': 26,
+    'Lewis': 30,
+    'Parker': 30,
+    'Jacobs': 29
+}
+
+score = {
+    'Banks': 362,
+    'Wilson': 254,
+    'Lewis': 569,
+    'Parker': 304,
+    'Jacobs': 190
+}
+
+def scoring_stats(player_name):
+    
